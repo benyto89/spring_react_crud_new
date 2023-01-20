@@ -16,7 +16,7 @@ const AppNavbar = () => {
                         <NavLink href="https://google.com">Magic link</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink href="https://github.com/benyto89/spring_react_crud_demo">GitHub</NavLink>
+                        <NavLink href="https://github.com/benyto89/spring_react_crud_new">GitHub</NavLink>
                     </NavItem>
                 </Nav>
             </Collapse>
